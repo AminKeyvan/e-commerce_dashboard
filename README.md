@@ -1,3 +1,5 @@
+![Dashboard Banner](assets/logo.png)
+
 # 📊 E-commerce Sales Analytics Dashboard
 
 This interactive Streamlit dashboard helps visualize and analyze e-commerce sales data across categories, regions, and time. It is designed for data analysts, business stakeholders, and decision-makers who want fast and intuitive access to key metrics.
