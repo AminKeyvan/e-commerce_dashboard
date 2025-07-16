@@ -1,4 +1,7 @@
-![Dashboard Banner](assets/logo.png)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.35-orange)
+![Status](https://img.shields.io/badge/status-deployed-brightgreen)
+
 
 # 📊 E-commerce Sales Analytics Dashboard
 
