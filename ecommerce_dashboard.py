@@ -31,7 +31,7 @@ st.sidebar.image(logo, use_container_width=True)
 @st.cache_data
 def load_data():
     """Load and prepare the dataset."""
-    df = pd.read_csv("data/ecommerce_data.csv", parse_dates=["Order Date", "Ship Date"])
+    df = pd.read_csv("ecommerce_data.csv", parse_dates=["Order Date", "Ship Date"])
     df["Delivery Time"] = (df["Ship Date"] - df["Order Date"]).dt.days
     return df
 
