@@ -53,4 +53,4 @@ git clone https://github.com/AminKeyvan/e-commerce_dashboard
 👤 **Author**: Amin Keyvanloo
 💡 Open for collaboration and job opportunities in data analysis, dashboard design, and cultural heritage tech.
 📧 a.keyvanloo@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/amin-keyvanloo-b834022a3/)
+🔗 [LinkedIn](https://www.linkedin.com/in/amin-keyvanloo)
